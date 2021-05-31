@@ -1,0 +1,22 @@
+.center {
+   border: 3px solid green;
+  width:50% ;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Kanye {
+  width:30%;
+  display: block;
+  margin: auto;
+  padding:3px; 
+}
+
+.JayZ {
+  width:25%;
+  float: left;
+}
+.Cudi {
+  float: right;
+  width: 500px;
+  height: 2000px; 
